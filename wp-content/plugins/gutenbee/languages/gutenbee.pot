@@ -1,0 +1,187 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: GutenBee!\n"
+"POT-Creation-Date: 2020-10-01 21:20+0300\n"
+"PO-Revision-Date: 2016-08-29 19:22+0300\n"
+"Last-Translator: Nik Vourvachis <nvourva@cssigniter.com>\n"
+"Language-Team: Nik Vourvachis <nvourva@cssigniter.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: gutenbee.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: gutenbee.php:116 inc/options.php:18
+msgid "GutenBee"
+msgstr ""
+
+#: gutenbee.php:132 gutenbee.php:165
+msgid "Accordion Block"
+msgstr ""
+
+#: gutenbee.php:133 gutenbee.php:170
+msgid "Button Block"
+msgstr ""
+
+#: gutenbee.php:134 gutenbee.php:180
+msgid "Container Block"
+msgstr ""
+
+#: gutenbee.php:135 gutenbee.php:190
+msgid "Countdown Block"
+msgstr ""
+
+#: gutenbee.php:136 gutenbee.php:195
+msgid "Countup Block"
+msgstr ""
+
+#: gutenbee.php:137 gutenbee.php:200
+msgid "Divider Block"
+msgstr ""
+
+#: gutenbee.php:138
+msgid "Food Menu Block"
+msgstr ""
+
+#: gutenbee.php:139 gutenbee.php:210
+msgid "Heading Block"
+msgstr ""
+
+#: gutenbee.php:140 gutenbee.php:215
+msgid "Icon Block"
+msgstr ""
+
+#: gutenbee.php:141 gutenbee.php:220
+msgid "Icon Box Block"
+msgstr ""
+
+#: gutenbee.php:142 gutenbee.php:225
+msgid "Image Block"
+msgstr ""
+
+#: gutenbee.php:143 gutenbee.php:230
+msgid "Image Box Block"
+msgstr ""
+
+#: gutenbee.php:144 gutenbee.php:235
+msgid "Image Comparison Block"
+msgstr ""
+
+#: gutenbee.php:145 gutenbee.php:240
+msgid "Justified Gallery Block"
+msgstr ""
+
+#: gutenbee.php:146 gutenbee.php:250
+msgid "Paragraph Block"
+msgstr ""
+
+#: gutenbee.php:147 gutenbee.php:255
+msgid "Post Types Block"
+msgstr ""
+
+#: gutenbee.php:148
+msgid "Progress Bar Block"
+msgstr ""
+
+#: gutenbee.php:149 gutenbee.php:270
+msgid "Spacer Block"
+msgstr ""
+
+#: gutenbee.php:150 gutenbee.php:265
+msgid "Slideshow Block"
+msgstr ""
+
+#: gutenbee.php:151 gutenbee.php:275
+msgid "Tabs Block"
+msgstr ""
+
+#: gutenbee.php:152 gutenbee.php:280
+msgid "Video Block"
+msgstr ""
+
+#: gutenbee.php:175
+msgid "Buttons Block"
+msgstr ""
+
+#: gutenbee.php:185
+msgid "Column Block"
+msgstr ""
+
+#: gutenbee.php:205
+msgid "Google Map Block"
+msgstr ""
+
+#: gutenbee.php:260
+msgid "Progress Block"
+msgstr ""
+
+#: gutenbee.php:285
+msgid "Food Menu"
+msgstr ""
+
+#: inc/options.php:18 inc/options.php:38
+msgid "GutenBee Settings"
+msgstr ""
+
+#: inc/options.php:60
+msgid "Google Maps Block"
+msgstr ""
+
+#: inc/options.php:69
+msgid "Google Maps API Key"
+msgstr ""
+
+#: inc/options.php:77
+msgid "Use the checkboxes below to enable or disable your new blocks."
+msgstr ""
+
+#. translators: %s is a URL.
+#: inc/options.php:97
+#, php-format
+msgid ""
+"Paste your Google Maps API Key below. This is <strong>required</strong> in "
+"order to get the Google maps block working. For info on how to get an API "
+"key read <a href=\"%s\" target=\"_blank\">this article</a>."
+msgstr ""
+
+#: src/blocks/post-types/block.php:131
+msgctxt "all categories"
+msgid "All"
+msgstr ""
+
+#: src/blocks/post-types/block.php:346
+msgid "No posts found."
+msgstr ""
+
+#: src/blocks/post-types/templates/article-default-tall.php:33
+#: src/blocks/post-types/templates/article-default.php:33
+#: src/blocks/post-types/templates/article-media.php:33
+msgid "Read More"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.cssigniter.com/plugins/gutenbee/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Premium Blocks for WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "The CSSIgniter Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.cssigniter.com"
+msgstr ""
